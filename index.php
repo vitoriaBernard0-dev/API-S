@@ -1,7 +1,7 @@
 <?php
 
 // URL da API do GitHub para o repositório desejado
-$repo_url = 'https://api.github.com/repos/octocat/Hello-World';
+$repo_url = 'https://api.github.com/repos/vitoriaBernard0-dev/API-S';
 
 // Configuração da solicitação HTTP
 $options = [
